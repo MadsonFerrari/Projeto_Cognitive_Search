@@ -17,9 +17,35 @@ Olá pessoal, eu sou Madson Ferrari, Engenheiro eletricista, pós graduado em Me
 - Após o curso, eu recomendo muito que você faça o treinamento do Azure
 - [Azure training](https://learn.microsoft.com/en-us/training/paths/document-intelligence-knowledge-mining/)
 
+
+
 - Acessar o [Portal Azure](https://portal.azure.com) usando as credenciais
 
-![Tela Inicial](https://github.com/MadsonFerrari/Projeto_Language_Studio/blob/main/Prints%20de%20tela/Tela%20Inicial.PNG)
+![Tela Inicial](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Telas/Tela0.PNG)
+
+Este curso é uma adicional ao curso da DIO e mostra passo a passo como trabalhar com a inteligência de Documentos dentro do Azure 
+no Document Intelligence.
+
+Neste curso rápido, você vai aprender a criar um recurso e enviar um documento, neste caso uma nota de despesa para ser feito o OCR e categorizada
+
+![Exemplo de recibo](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Recibo/receipt.jpg)
+
+#Mas afinal não era isto que um OCR faz? Não basta eu fazer um OCR com um aplicativo e pronto?
+
+Não! O Document Intelligence não é apenas um OCR. Ele é baseado em IA e não apenas reconhece o texto mas também ele interpreta o conteúdo identificando as informações para você
+Tudo isto basedao em treinamento com vários documentos. Ou seja, ele é capaz de reconhecer palavras chaves e informações como:
+
+- Nome
+- Endereço
+- Estabelecimento
+- Produto
+- Valor
+- etc...
+
+Desta forma suas informações podem ser catalogadas em tabelas que você pode armazenar no proprio Storage do Azure.
+Esta capacidade de reconhecer e extrair texto, layout e palavras chaves é conhecido como *Document Analysis* ou Análise de Documentos em Português.
+
+#Vamos ver passo a passo como fazer:  
 
 Depois temos que criar um recurso do Language na Guia AI + Machine Learning.
 
