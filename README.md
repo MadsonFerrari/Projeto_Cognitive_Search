@@ -14,12 +14,45 @@ Olá pessoal, eu sou Madson Ferrari, Engenheiro eletricista, pós graduado em Me
 
 
 - A primeira etapa foi assitir ao módulo de Inteligencia de Documentos e mineração do conhecimento da DIO dentro do bootcamp AI-900
-- Após o curso, eu recomendo muito que você faça o treinamento do Azure
+- Após o curso, eu recomendo muito que você faça o treinamento do Document Intelligence do Azure
 - [Azure training](https://learn.microsoft.com/en-us/training/paths/document-intelligence-knowledge-mining/)
+
 
 - Acessar o [Portal Azure](https://portal.azure.com) usando as credenciais
 
-![Tela Inicial](https://github.com/MadsonFerrari/Projeto_Language_Studio/blob/main/Prints%20de%20tela/Tela%20Inicial.PNG)
+![Tela Inicial](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Telas/Tela0.PNG)
+
+Este curso é uma adicional ao curso da DIO e mostra passo a passo como trabalhar com a inteligência de Documentos dentro do Azure 
+no Document Intelligence.
+
+Neste curso rápido, você vai aprender a criar um recurso e enviar um documento, neste caso uma nota de despesa para ser feito o OCR e categorização
+
+![Exemplo de recibo](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Recibo/receipt.jpg)
+
+# Mas afinal não era isto que um OCR faz? Não basta eu fazer um OCR com um aplicativo e pronto?
+
+Não! O Document Intelligence não é apenas um OCR. Ele é baseado em IA e não apenas reconhece o texto mas também ele interpreta o conteúdo identificando as informações para você
+Tudo isto basedao em treinamento com vários documentos. Ou seja, ele é capaz de reconhecer palavras chaves e informações como:
+
+- Campo Nome e o valor do nome
+- Campo Endereço e qual é o valor do mesmo
+- Campo Empresa e o nome do estabelecimento
+- Campo do Produto e descrição do mesmo
+- Campo do Valor
+- Campo de quantidade e valor
+- etc...
+
+Desta forma suas informações podem ser catalogadas em tabelas que você pode armazenar no próprio Storage do Azure.
+Esta capacidade de reconhecer e extrair texto, layout e palavras chaves é conhecido como *Document Analysis* ou Análise de Documentos em Português.
+
+Mas você deve estar pensando: Os campos estã em Inglês e minhas notas e recebi estarão em Português, e agora?
+
+Bem, o treinamento da plataforma é bem completo e reconhece a maioria dos idiomas mas se você tiver problemas com os Prebuilt models
+que são os modelo pré treinados, você pode criar modelos Customizados ou *Custom Models* para treinar de acordo com a sua necessidade.
+Não é demais? 
+
+# Vamos ver passo a passo como fazer:  
+
 
 Depois temos que criar um recurso do Language na Guia AI + Machine Learning.
 
