@@ -10,11 +10,12 @@ Olá pessoal, eu sou Madson Ferrari, Engenheiro eletricista, pós graduado em Me
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MadsonFerrari)
 
-# Análise de sentimentos com Language Studio
+# Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados
 
 
-- A primeira etapa foi assitir ao módulo de Análise de texto do curso da DIO dentro do bootcamp AI-900
-
+- A primeira etapa foi assitir ao módulo de Inteligencia de Documentos e mineração do conhecimento da DIO dentro do bootcamp AI-900
+- Após o curso, eu recomendo muito que você faça o treinamento do Azure
+- [Azure training](https://learn.microsoft.com/en-us/training/paths/document-intelligence-knowledge-mining/)
 
 - Acessar o [Portal Azure](https://portal.azure.com) usando as credenciais
 
