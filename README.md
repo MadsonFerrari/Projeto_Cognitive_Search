@@ -1,4 +1,3 @@
-![image](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/assets/135170118/c3d95d58-d3fd-4fe1-b26d-65b94efd376a)# Madson Ferrari
 
 Olá pessoal, eu sou Madson Ferrari, Engenheiro eletricista, pós graduado em Mecatrônica pela UFRJ e entusiasta pela área de informática, programação e Innovation
 
