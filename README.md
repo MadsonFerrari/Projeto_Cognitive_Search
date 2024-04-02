@@ -125,7 +125,7 @@ Role a tela até a parte de baixo e Clique em recibos *Receipts*
 
 Na tela clique para buscar ou arraste e solte o recibo que você quer analisar
 
-![Imagem12[(https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Telas/Tela3_3.PNG)
+![Imagem12](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Telas/Tela3_3.PNG)
 
 ## Agora a mágica acontece
 
