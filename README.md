@@ -53,7 +53,7 @@ Não é demais?
 
 # Vamos ver passo a passo como fazer:  
 
-A primeira etapa é logar do ![*Document Intelligence Studio*](https://formrecognizer.appliedai.azure.com/studio) e logar na sua conta da Microsoft
+A primeira etapa é logar do [Document Intelligence Studio](https://formrecognizer.appliedai.azure.com/studio) e logar na sua conta da Microsoft
 
 Depois clicamos na Engrenagem e escolhemos criar um recurso
 
