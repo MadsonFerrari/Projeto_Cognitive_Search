@@ -103,41 +103,17 @@ Pronto seu recurso está criado e aparecerá na tela.
 
 ![Imagem8](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Telas/Tela0_8.PNG)  
 
-Depois de criado acessar o [portal do Language Cognitive] (https://language.cognitive.azure.com/home)
+Mantenha esta tela aberta   
 
-## Reconhecimento de Texto com Language Studio
+## Reconhecimento de um recibo usando o *Document Intelligence* 
 
-Recurso criado e Deploy feito, basta escolher o recurso e classificação de texto no Language Studio.
 
-![Language Studio Home](https://github.com/MadsonFerrari/Projeto_Language_Studio/blob/main/Prints%20de%20tela/Tela%207%20-%20Language%20Cognitive.PNG)
+Mantenha esta tela aberta e acesse o 
 
-> [!NOTE]
-> **Esta parte pode demorar alguns minutos pois o recurso demora para aparecer na lista**
-> Conforme imagem abaixo.
 
-![imagem da tela de recursos](https://github.com/MadsonFerrari/Projeto_Language_Studio/blob/main/Prints%20de%20tela/Tela%20de%20recurso.PNG) 
 
-Para teste da detecção de Sentimento eu preparei um texto com várias sentenças sobre o opinião de um cliente em um restaurante.
 
-[link do Arquivo de Texto](https://github.com/MadsonFerrari/Projeto_Language_Studio/blob/main/inputs/Senten%C3%A7as-2.txt)
 
-Aqui temos um preview do texto.
-
-![Texto escolhido](https://github.com/MadsonFerrari/Projeto_Language_Studio/blob/main/Prints%20de%20tela/Texto%20Escolhido.PNG)
-
-Basta carregar o texto na opção **Browse for a file** e depois clicar em RUN e pronto. O Language Studio retorna a análise de sentimento do texto.
-
-Aqui podemos verificar que ele detectou o sentimento negativo nesta parte do texto onde citei que a comida estava fria e com muito sal. Note que mesmo escrevendo a palavra Garçon errada ele conseguiu interpretar a frase e detectar meu sentimento de desgosto.
-
-![Imagem](https://github.com/MadsonFerrari/Projeto_Language_Studio/blob/main/Prints%20de%20tela/Tela%2010.PNG)
-
-### A pontuação é importante
-
-Submeti o mesmo texto varias vezes e alterei a pontuação da frase final para testar.
-
-![Frase final](https://github.com/MadsonFerrari/Projeto_Language_Studio/blob/main/Prints%20de%20tela/Tela%209.PNG)
-
-![Frase final exclamativa](https://github.com/MadsonFerrari/Projeto_Language_Studio/blob/main/Prints%20de%20tela/Tela%2011.PNG)
 
 ## Considerações finais
 
