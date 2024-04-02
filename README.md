@@ -45,10 +45,10 @@ Tudo isto baseado em treinamento com vários documentos. Ou seja, ele é capaz d
 Desta forma suas informações podem ser catalogadas em tabelas que você pode armazenar no próprio Storage do Azure.
 Esta capacidade de reconhecer e extrair texto, layout e palavras chaves é conhecido como *Document Analysis* ou Análise de Documentos em Português.
 
-Mas você deve estar pensando: Os campos estã em Inglês e minhas notas e recebi estarão em Português, e agora?
+Mas você deve estar pensando: Os campos estão em Inglês e as minhas notas que recebi estarão em Português, e agora?
 
-Bem, o treinamento da plataforma é bem completo e reconhece a maioria dos idiomas mas se você tiver problemas com os Prebuilt models
-que são os modelo pré treinados, você pode criar modelos Customizados ou *Custom Models* para treinar de acordo com a sua necessidade.
+Bem, o treinamento da plataforma é bem completo e reconhece a maioria dos idiomas mas, se você tiver problemas com os Prebuilt models
+que são os modelos pré treinados, você pode criar modelos Customizados ou *Custom Models* para treinar de acordo com a sua necessidade.
 Não é demais? 
 
 # Vamos ver passo a passo como fazer:  
