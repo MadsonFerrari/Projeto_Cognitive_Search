@@ -111,7 +111,9 @@ mantenha esta janela aberta e vamos para próxima parte
 
 Para este exemplo podemos baixar um [recibo](https://aka.ms/mslearn-receipt) 
 
-Vamos usar também outros recibos, agora em português como [este](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Recibo/Recibo_2.jpg)
+Vamos usar também outros recibos, agora em português como [este](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Recibo/Recibo_2.jpg) 
+
+![Recibo](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Recibo/Recibo_2.jpg)
 
 
 
