@@ -115,7 +115,7 @@ Vamos usar também outros recibos, agora em português como [este](https://githu
 
 ![Recibo](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Recibo/Recibo_2.jpg)
 
-Na janela anteior clique em *Document Studio* para voltar a tela inicial
+Na janela anterior clique em *Document Studio* para voltar a tela inicial
 
 ![Imagem10](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Telas/Tela3_1.PNG)  
 
