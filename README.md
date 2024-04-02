@@ -103,12 +103,18 @@ Pronto seu recurso está criado e aparecerá na tela.
 
 ![Imagem8](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Telas/Tela0_8.PNG)  
 
-Mantenha esta tela aberta   
+mantenha esta janela aberta e vamos para próxima parte
 
 ## Reconhecimento de um recibo usando o *Document Intelligence* 
 
+![Imagem9](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Telas/Tela3.PNG)  
 
-Mantenha esta tela aberta e acesse o 
+Para este exemplo podemos baixar um [recibo](https://aka.ms/mslearn-receipt) 
+
+Vamos usar também outros recibos, agora em português como [este](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Recibo/Recibo_2.jpg) 
+
+![Recibo](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Recibo/Recibo_2.jpg)
+
 
 
 
