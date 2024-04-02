@@ -115,14 +115,48 @@ Vamos usar também outros recibos, agora em português como [este](https://githu
 
 ![Recibo](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Recibo/Recibo_2.jpg)
 
+Na janela anteior clique em *Document Studio* para voltar a tela inicial
 
+![Imagem10](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Telas/Tela3_1.PNG)  
 
+Role a tela até a parte de baixo e Clique em recibos *Receipts*
 
+![Imagem11](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Telas/Tela3_2.PNG)
 
+Na tela clique para buscar ou arraste e solte o recibo que você quer analisar
 
+![Imagem12[(https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Telas/Tela3_3.PNG)
+
+## Agora a mágica acontece
+
+Clique em *Run Analysis* para rodar a análise do recibo.
+
+![Imagem 13](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Telas/Tela3_4.PNG)
+
+Vamos testar agora um recido em Português. Arraste e solte o recibo desejado e veja o resultado.
+
+![Imagem14](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Telas/Tela3_6.PNG)
+
+Note no quadro da esuerda que foram detectados:
+
+-Nome do comerciante *(MarchantName)*
+-Quantidade
+-Nome dos Produtos
+-Endereço
+-Quantidade Itens comprados
+-Moeda BR
+
+E várias informações
+
+Antes de terminarmos. Acesse o painel de recurso e faça a limpeza dos recursos atribuidos para evitar consumo e custo
+
+![Imagem15](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Telas/Tela4.PNG)
 
 ## Considerações finais
 
-### As ferramentas do Azure e language Studio demonstraram que são muito úteis em diversos projetos e que conseguem um acerto muito alto tanto na detecção de texto, fala para texto, texto para fala, Contexto e sentimentos. 
+### As ferramentas do Azure e Document Intelligence demonstraram que são muito úteis para agilizar o processo de reconhecimento de dados diversos e na sua catalogação através de palavras chave e campos.
+
+
+
 
 
