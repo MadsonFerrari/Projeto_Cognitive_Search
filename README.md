@@ -31,7 +31,7 @@ Neste curso rápido, você vai aprender a criar um recurso e enviar um documento
 
 # Mas afinal não era isto que um OCR faz? Não basta eu fazer um OCR com um aplicativo e pronto?
 
-Não! O Document Intelligence não é apenas um OCR. Ele é baseado em IA e não apenas reconhece o texto mas também ele interpreta o conteúdo identificando as informações para você
+Não! O Document Intelligence não é apenas um OCR. Ele é baseado em IA e não apenas reconhece o texto mas também ele interpreta o conteúdo identificando as informações para você.
 Tudo isto basedao em treinamento com vários documentos. Ou seja, ele é capaz de reconhecer palavras chaves e informações como:
 
 - Campo Nome e o valor do nome
