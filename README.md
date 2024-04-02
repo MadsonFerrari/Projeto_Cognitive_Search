@@ -53,38 +53,55 @@ Não é demais?
 
 # Vamos ver passo a passo como fazer:  
 
+A primeira etapa é logar do *Document Intelligence Studio* e logar na sua conta da Microsoft
 
-Depois temos que criar um recurso do Language na Guia AI + Machine Learning.
+Depois clicamos na Engrenagem e escolhemos criar um recurso
 
-![Imagem Language](https://github.com/MadsonFerrari/Projeto_Language_Studio/blob/main/Prints%20de%20tela/Tela%202%20Create%20resurce.PNG)
+![Imagem](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Telas/Tela0_1.PNG)
 
-Escolher **Continue to create a resource**
+Selecione *Resource*, Clique na sua *Subscription* e clique *Create a new resource* 
 
-![Imagem da criação de recurso](https://github.com/MadsonFerrari/Projeto_Language_Studio/blob/main/Prints%20de%20tela/Tela%203%20-%20Criando%20recurso%20de%20language.PNG)
+![Imagem2](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Telas/Tela0_2.PNG)
 
-Aparecerá a tela de criação de recursos
+Vai aparecer a tela de criação de recurso
 
-![Tela de recursos](https://github.com/MadsonFerrari/Projeto_Language_Studio/blob/main/Prints%20de%20tela/Tela%204.PNG))
+![Imagem3](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Telas/Tela0_3.PNG)
 
-Selecionei **+Create a resource**
-- Procurar e selecionar **Azure AI Services** ,clicar em CREATE e colocar os seguintes ajustes:
-    - **Subscription:** *Sua conta do Azure*
-    - **Resource group:** *Nome do Recurse Group*
-    - **Region:** *East US 2*
-    - **Name:** *Nome desejado*
-    - **Price Tear:** *Free F0* ou *Standard S0*
-    - **Box de termos:** *Selecionada*
+Escolha:
+
+   - **Subscription:** *Sua conta do Azure*
+   - **Resource group:** *Nome do Recurse Group* eu escolhi DOC_TEST3
+   - **Region:** *East US 2*
+   - **Name:** *Nome desejado* Eu escolhi TEST2
+   - **Price Tear:** *Free F0* ou *Standard S0*
+   - **Box de termos:** *Selecionada*
 
 > [!NOTE]
 > No **Price Tear** a opção Free F0 pode não aparecer se já tiver sido escolhida anteriormente 
 
-- Selecione **Review + create** e então selecione **Create**.
+Selecione **CONTINUE** e revise as escolhas mostradas
 
-![Imagem da criação](https://github.com/MadsonFerrari/Projeto_Language_Studio/blob/main/Prints%20de%20tela/tela%205.PNG)  
+e então clique **Finish** para concluir.
 
-Espere a criação do espaço de trabalho (levou alguns minutos) 
+![Imagem4](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Telas/Tela0_4.PNG)
 
-![Deploy](https://github.com/MadsonFerrari/Projeto_Language_Studio/blob/main/Prints%20de%20tela/Tela%206%20-%20Deployed.PNG)
+Pode ocorrer um erro se você já tiver usado a *Free F0* anteriormente
+
+![Imagem5](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Telas/Tela0_5.PNG)
+
+Neste caso cique em *Back* para voltar e escolha a Opção *Standard S0*
+
+![Imagem6](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Telas/Tela0_6.PNG)
+ 
+Revise novamente e Click *Finish* para concluir e criar o recurso
+
+![Imagem7](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Telas/Tela0_7.PNG)  
+
+Espere a criação do espaço de trabalho (leva aproximadamente 1 minuto)
+
+Pronto seu recurso está criado e aparecerá na tela.
+
+![Imagem8](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Telas/Tela0_8.PNG)  
 
 Depois de criado acessar o [portal do Language Cognitive] (https://language.cognitive.azure.com/home)
 
