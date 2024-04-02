@@ -123,7 +123,8 @@ Role a tela até a parte de baixo e Clique em recibos *Receipts*
 
 ![Imagem11](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Telas/Tela3_2.PNG)
 
-Na tela clique para buscar ou arraste e solte o recibo que você quer analisar
+Na tela clique para buscar ou arraste e solte o recibo que você quer analisar. 
+Começe carregando o da NorthWind Traders
 
 ![Imagem12](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Telas/Tela3_3.PNG)
 
@@ -137,7 +138,7 @@ Vamos testar agora um recido em Português. Arraste e solte o recibo desejado e 
 
 ![Imagem14](https://github.com/MadsonFerrari/Projeto_Cognitive_Search/blob/main/Telas/Tela3_6.PNG)
 
-Note no quadro da esuerda que foram detectados:
+Note, no quadro da direita, que foram detectados:
 
 -Nome do comerciante *(MarchantName)*
 -Quantidade
@@ -145,6 +146,7 @@ Note no quadro da esuerda que foram detectados:
 -Endereço
 -Quantidade Itens comprados
 -Moeda BR
+-etc...
 
 E várias informações
 
